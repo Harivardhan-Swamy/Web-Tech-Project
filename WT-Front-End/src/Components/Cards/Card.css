@@ -3,8 +3,11 @@
     background: rgb(202, 202, 202);
   }
   
-  h1 {
+  
+  p{
     text-align: center;
+    font-size: 25px;
+    color: rgb(0,0,0,0.822);
   }
   
   .cards__container {

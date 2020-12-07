@@ -20,11 +20,12 @@ class Navbar extends Component {
           {/* name on the left hand side of page along with logo */}
               
               <h1 className="navbar-logo">
-                  <i class="fab fa-instagram" ></i>
-                  <i class="fab fa-facebook-f"></i>
-                  <i class="fab fa-twitter"></i>
-                  <i class="fab fa-pinterest-p"></i>
-                  <i class="fab fa-youtube"></i>
+                
+                  <a href="https://www.instagram.com/lonelyplanetindia/?hl=en"><i class="fab fa-instagram" href="" ></i></a>
+                  <a href="https://www.facebook.com/groups/2205176794"><i class="fab fa-facebook-f" href=""></i></a>
+                  <a href=""><i class="fab fa-twitter" href=""></i></a>
+                  <a href=""><i class="fab fa-pinterest-p" href=""></i></a>
+                  <a href="https://youtu.be/dQw4w9WgXcQ"><i class="fab fa-youtube" ></i></a>
                </h1>
                
         {/* The hamburger menu icon */}

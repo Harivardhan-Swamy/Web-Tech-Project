@@ -21,10 +21,10 @@ function FrontPage() {
         
         <div className='container-btns'>
 
-          <Button className='btns' buttonStyle='button--outline' buttonSize='btn--large'>
+          <Button onClick="/destination" className='btns' buttonStyle='button--outline' buttonSize='btn--large'>
               GET STARTED
           </Button>
-          <Button className='btns' buttonSize='btn--large' buttonStyle='button--outline'>
+          <Button onClick="https://youtu.be/77czO8sxABI" className='btns' buttonSize='btn--large' buttonStyle='button--outline'>
             WATCH TRAILER<i className='far fa-play-circle' />
           </Button>
 
